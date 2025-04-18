@@ -1,4 +1,4 @@
-# Destroyer
+# Destroyer .
 
 destroy network servers for when `.close()` is not enough
 
